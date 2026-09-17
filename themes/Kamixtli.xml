@@ -19,7 +19,7 @@
     ............................................................................
     v1.0.0 | 2026-09-17 | Gustavo Zepeda | Initial Kamixtli release.
                           - Global styles rebuilt from ATLAS publish.css
-                          - All 94 lexers remapped to GitHub Primer token family
+                          - All 95 lexers remapped to GitHub Primer token family
                           - Lexer backgrounds unified to canvas (#04060A)
                           - Markdown delivered as a companion UDL
                             (markdown.kamixtli.udl.xml), since Notepad++
