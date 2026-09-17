@@ -12,7 +12,7 @@
 
     Based on "Dark+ Modern" by helldio
     (https://github.com/helldio/npp-Dark-Modern), used as the structural
-    foundation. All colors, global styles and the markdown lexer replaced.
+    foundation. All colors and global styles replaced; markdown ships separately.
     ============================================================================
 
     #0 VERSION HISTORY
